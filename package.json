@@ -1,0 +1,1 @@
+{"dependencies":{"nodemailer":"^6.9.14"},"description":"Hamza Tech Service password-reset email relay (Vercel serverless function).","name":"hamza-tech-service-reset-relay","private":true,"version":"1.0.0"}
